@@ -9,8 +9,9 @@
 🔍 Exploring the possibilities of data<br>
 🔗 Let's connect and collaborate!</h5>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*zGtIUs6yiXBojG4e.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsonaar&label=Profile%20views&color=0e75b6&style=flat" alt="yashsonaar" /> </p>
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Yashsonaar&label=Profile%20Views&color=9&icon=8&pretty=false" />
+</a>
 <p align="left"> <a href="https://twitter.com/yash_sonaar" target="blank"><img src="https://img.shields.io/twitter/follow/yash_sonaar?logo=twitter&style=for-the-badge" alt="yash_sonaar" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Android Developement**
